@@ -8,4 +8,4 @@ targets:
     deploymentTarget: "17.0"
     sources: [SaborApp]
     settings:
-      INFOPLIST_FILE: SaborApp/Info.plist
+      GENERATE_INFOPLIST_FILE: YES
