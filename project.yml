@@ -1,0 +1,11 @@
+name: SaborApp
+options:
+  bundleIdPrefix: com.saborapp
+targets:
+  SaborApp:
+    type: application
+    platform: iOS
+    deploymentTarget: "17.0"
+    sources: [SaborApp]
+    settings:
+      INFOPLIST_FILE: SaborApp/Info.plist
