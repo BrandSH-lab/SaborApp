@@ -8,7 +8,5 @@ targets:
     deploymentTarget: "17.0"
     sources:
       - path: SaborApp
-      - path: Features
-      - path: DesignSystem
     settings:
       GENERATE_INFOPLIST_FILE: YES
