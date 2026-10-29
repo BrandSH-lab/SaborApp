@@ -166,7 +166,7 @@ enum MockData {
                 OptionItem(name: "Boniato crujiente", extra: 1.00, note: "+1.00 €"),
                 OptionItem(name: "Ensalada verde", extra: 0, note: "Incluido"),
             ]),
-            OptionGroup(title: "Extras recomendados", required: false, multiSelect: true, items: [
+            OptionGroup(title: "Extras recomendados", required: false, items: [
                 OptionItem(name: "Bacon ahumado crujiente", extra: 1.50, note: "+1.50 €"),
                 OptionItem(name: "Huevo campero a la plancha", extra: 1.20, note: "+1.20 €"),
                 OptionItem(name: "Extra salsa de trufa", extra: 1.00, note: "+1.00 €"),
