@@ -8,6 +8,5 @@ targets:
     deploymentTarget: "17.0"
     sources:
       - path: SaborApp/SaborApp
-        type: folder
     settings:
       GENERATE_INFOPLIST_FILE: YES
