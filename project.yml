@@ -7,10 +7,6 @@ targets:
     platform: iOS
     deploymentTarget: "17.0"
     sources:
-      - path: SaborApp
-      - path: Features
-      - path: DesignSystem
-      - path: Models
-      - path: Stores
+      - path: SaborApp/SaborApp
     settings:
       GENERATE_INFOPLIST_FILE: YES
